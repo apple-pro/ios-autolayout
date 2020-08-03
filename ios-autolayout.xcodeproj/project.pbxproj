@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F0F5712D24D7EA4A007DDAA2 /* ios-autolayout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios-autolayout.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F0F5712D24D7EA4A007DDAA2 /* Auto Layout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Auto Layout.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0F5713024D7EA4A007DDAA2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F0F5713224D7EA4A007DDAA2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		F0F5713424D7EA4A007DDAA2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		F0F5712E24D7EA4A007DDAA2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F0F5712D24D7EA4A007DDAA2 /* ios-autolayout.app */,
+				F0F5712D24D7EA4A007DDAA2 /* Auto Layout.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = "ios-autolayout";
 			productName = "ios-autolayout";
-			productReference = F0F5712D24D7EA4A007DDAA2 /* ios-autolayout.app */;
+			productReference = F0F5712D24D7EA4A007DDAA2 /* Auto Layout.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -292,7 +292,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "info.startupbuilder.ios-autolayout";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Auto Layout";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -310,7 +310,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "info.startupbuilder.ios-autolayout";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Auto Layout";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
